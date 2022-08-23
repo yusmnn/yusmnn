@@ -28,4 +28,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusmnn&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusmnn&repo=DART-DASAR&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusmnn&repo=myHall&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusmnn&repo=myDoor&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
