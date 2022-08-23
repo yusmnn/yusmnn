@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [yusmnn.showwcase.com](yusmnn.showwcase.com)
+- 👨‍💻 All of my projects are available at [yusmnn.github.io](yusmnn.github.io)
 
 - 💬 Ask me about **front end**
 
