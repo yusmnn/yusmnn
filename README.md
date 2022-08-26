@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I write code with Lo-fi**
 
-<h3 align="center">====================</h3>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusmnn&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
