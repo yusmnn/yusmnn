@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusmnn&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusmnn&show_icons=true&theme=github_dark)
+![alt text](https://github-readme-stats.vercel.app/api?username=yusmnn&show_icons=true&theme=github_dark)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusmnn&repo=myHall&theme=github_dark)](https://github.com/yusmnn/myHall)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yusmnn&repo=myDoor&theme=github_dark)](https://github.com/yusmnn/myDoor)
