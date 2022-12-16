@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/8C7BGv9m/banner-github.jpg)
+![MasterHead](banner_github.jpg)
 
 <h1 align="center" style = "font">👋 Hello World!</h1>
 
