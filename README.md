@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello World!</h1>
+![MasterHead](https://i.postimg.cc/8C7BGv9m/banner-github.jpg)
+
+<h1 align="center" style = "font">👋 Hello World!</h1>
 
 <div align="justify">
 <h2>I am a student who learn specializes front-end development for web and mobile applications from Indonesian. I also like to write code and share my knowledge with others. I’m currently learning Kotlin & Flutter.</h2>
