@@ -10,7 +10,10 @@
   <a href="https://github.com/yusmnn/yusmnn">
     <img src="https://komarev.com/ghpvc/?username=yusmnn" alt="page views" />
   </a>
+  <a href="https://wakatime.com/@51edc8d3-6076-40a3-80fd-d90af1552f42"><img src="https://wakatime.com/badge/user/51edc8d3-6076-40a3-80fd-d90af1552f42.svg" alt="Total time coded since Mar 20 2023" /></a>
 </p>
+
+
 
 ### 🔥My Github Stats:
 <div align="center">
