@@ -22,4 +22,4 @@
 </div>
 
 ### ✨ Hacktoberfest 2022 badge!
-[![@yusmnn's Holopin board](https://holopin.io/api/user/board?user=yusmnn)](https://holopin.io/@yusmnn)
+[![An image of @yusmnn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusmnn)](https://holopin.io/@yusmnn)
