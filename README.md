@@ -4,9 +4,7 @@
 
 <div align="justify">
   <h2>
-    I am a student who specializes in front-end development for web and mobile applications from Indonesia. 
-    I also like to write code and share my knowledge with others. I’m currently learning Kotlin & Flutter. 
-    Feel free to contact me:<br/><br/>
+    I'm a front-end developer from Indonesia with a passion for building web and mobile applications. I enjoy coding and love sharing what I learn with others. Currently, I'm deepening my skills in Kotlin and Flutter. Feel free to reach out to me:<br/><br/>
     <a href="mailto:yusmnn@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
