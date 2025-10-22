@@ -33,5 +33,5 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusmnn&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### ✨ Hacktoberfest 2022 badge!
+### ✨ Hacktoberfest Badge!
 [![An image of @yusmnn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusmnn)](https://holopin.io/@yusmnn)
