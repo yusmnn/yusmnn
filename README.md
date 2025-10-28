@@ -33,5 +33,5 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusmnn&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-### ✨ My Badge!
+### ✨ Hacktoberfest Badges!
 [![@yusmnn's Holopin badges](https://www.holopin.io/api/user/board?user=yusmnn)](https://holopin.io/@yusmnn)
