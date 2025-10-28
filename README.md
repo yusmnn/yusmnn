@@ -34,4 +34,4 @@
 </div>
 
 ### ✨ Hacktoberfest Badges!
-[![@yusmnn's Holopin badges](https://www.holopin.io/api/user/board?user=yusmnn)](https://holopin.io/@yusmnn)
+![@yusmnn badges](board.png)
