@@ -4,7 +4,7 @@
 
 <div align="justify">
   <h2>
-    I'm a front-end developer from Indonesia with a passion for building web and mobile applications. I enjoy coding and love sharing what I learn with others. Currently, I'm deepening my skills in Kotlin and Flutter. Feel free to reach out to me:<br/><br/>
+    I'm a Full Stack Developer based in Indonesia with a passion for building scalable applications. My expertise covers the Back-End using PHP frameworks like CodeIgniter and Laravel, as well as the Front-End for web. Currently, I'm expanding my reach into Mobile Development by deepening my skills in Kotlin and Flutter. Feel free to reach out to me:<br/><br/>
     <a href="mailto:yusmnn@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
